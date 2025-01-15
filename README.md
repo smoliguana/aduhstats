@@ -1,4 +1,4 @@
-# aduhstats
+# aduhstats - calcs
 Links https://www.atozmath.com/  
 5 Number Summary + IQR + Inner Outer Fence + Outliers + Geometric Mean + Sum of Squares + Standard Deviation (Sample/Population) + Variance Calculator:
 https://www.hackmath.net/en/calculator/five-number-summary 
@@ -28,3 +28,4 @@ bit.ly/statsleewin
 bit.ly/statsgibus 
 http://bit.ly/basicstatsnotes 
 https://github.com/Jasmine-Raisya/BASICSTATS_FinalExam/blob/main/README.md 
+https://github.com/louisa-mandy/stats
